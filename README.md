@@ -1,4 +1,4 @@
-### 🚧 My repos:
+### My repos:
 
 
 #### 🎓 University projects (Politecnico di Milano):

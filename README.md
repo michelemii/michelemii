@@ -1,7 +1,7 @@
 ### 🚧 My repos:
 
 
-#### 🎓 University projects: (Politecnico di Milano)
+#### 🎓 University projects (Politecnico di Milano):
 - [Digital electronic system](https://github.com/michelemii/DES): VHDL repository for the digital electronic systems course, targeting a Xilinx Artix-7 board (Basys 3).
 - [Principle of Computer Architecture](https://github.com/michelemii/PCA): RISC-V Assembly repository for the Principles of Computer Architecture course.
 

@@ -1,3 +1,8 @@
+### Hi there! I'm Michele 👋
+I'm an Electronic Engineering student at Politecnico di Milano with a strong interest in FPGA development, PCB design and embedded systems. I enjoy working on projects that combine hardware design and firmware development, from university coursework to real world applications.
+
+<br>
+
 ### My repos:
 
 

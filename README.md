@@ -16,8 +16,3 @@ I'm an Electronic Engineering student at Politecnico di Milano with a strong int
 
 #### 👾 Hackaton:
 - [TinyHack Torino 2025](https://github.com/michelemii/tiny_hack/tree/main/submissions/12-git-fetch-belayer): Developed an embedded real time attention monitoring system using the Arduino Nicla Vision, integrating TinyML based visual classification, IMU sensing, BLE distance estimation and WiFi communication through a finite state machine architecture.
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michelemii&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelemii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
